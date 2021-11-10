@@ -1,1 +1,29 @@
 web guide
+Ballistic Group Interenational Website
+
+Menu Items
+-Main Menu
+-About Us
+-Order Items / Shop
+-Support
+
+
+Structure of the Shop
+-Word Press Shopping Plug-in
+-Code Direct
+
+
+Features of the Shop
+-Companies can request quotes for mass orders
+-Individuals can order weapons directly
+
+Optional Features of the Shop
+-Identity Check adn Background Check
+-Payment Processor Integration
+
+
+Needs / Requirements
+-60$ yearly from chunk host
+-10$ domain a year
+-Mock-up / 3-D Model of KI-111
+-Prices of base models
